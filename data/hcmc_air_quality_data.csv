@@ -1,4 +1,4 @@
-date,pm10,pm2_5,carbon_monoxide,nitrogen_dioxide,sulphur_dioxide,ozone,us_aqi
+date_time,pm10,pm2_5,carbon_monoxide,nitrogen_dioxide,sulphur_dioxide,ozone,us_aqi
 2022-10-01 00:00:00+00:00,61.2,42.1,1123.0,50.8,11.5,4.0,73.65249
 2022-10-01 01:00:00+00:00,36.9,24.9,906.0,43.05,11.25,14.0,76.471634
 2022-10-01 02:00:00+00:00,28.0,18.5,598.0,31.95,10.9,27.0,77.59752
