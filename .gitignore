@@ -130,9 +130,13 @@ ENV/
 env.bak/
 venv.bak/
 <<<<<<< HEAD
+<<<<<<< HEAD
 capydata_env
 =======
 >>>>>>> 66231731ad2ea27f3abab7dd1a430ecbd136329a
+=======
+capydata_env
+>>>>>>> 8f2ed2134885fc2033ca19fd32be832a70026ecd
 
 # Spyder project settings
 .spyderproject
