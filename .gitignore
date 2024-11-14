@@ -129,7 +129,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+<<<<<<< HEAD
 capydata_env
+=======
+>>>>>>> 66231731ad2ea27f3abab7dd1a430ecbd136329a
 
 # Spyder project settings
 .spyderproject
@@ -160,4 +163,8 @@ cython_debug/
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
+<<<<<<< HEAD
 #.idea/
+=======
+#.idea/
+>>>>>>> 66231731ad2ea27f3abab7dd1a430ecbd136329a
