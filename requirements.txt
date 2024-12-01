@@ -8,3 +8,8 @@ gradio
 joblib
 xgboost
 imblearn
+openmeteo-requests
+requests-cache 
+retry-requests
+nbformat
+nbimporter
