@@ -23,8 +23,10 @@ This project aims to analyze the relationship between weather conditions and air
 ## Project Organization
 - `data/`: Collected and preprocessed data
 - `notebooks/`: Jupyter notebooks for analysis
-- `reports/`: Final project report and presentation
 - `src/`: Python scripts for data processing and analysis
+
+## Additional Resources
+- [Project Drive](https://drive.google.com/drive/folders/11HrSxnZGHwgdIZdofiF2Ajjw2VtPV388).
 
 ## Contributors
 This project is done by the Capydata group, class CLC2425HK1_CSC14119_22KHDL1, University of Science, VNU-HCM.

@@ -8,3 +8,7 @@ gradio
 joblib
 xgboost
 imblearn
+openmeteo-requests
+requests-cache 
+retry-requests
+pyngrok
