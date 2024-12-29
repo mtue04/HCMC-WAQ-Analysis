@@ -289,16 +289,24 @@ def generate_page5():
     <h4 style="font-size:20px; color:#004d99;">Based on the chart, we can observe the following:</h4>
 
     <p style="font-size:18px; line-height:1.6;">
-    - <b>Ozone Levels:</b> Ozone concentrations are highest in the morning (<b>95.8 µg/m³</b>) and significantly decrease in the afternoon and evening (<b>31.2 µg/m³</b> and <b>37.6 µg/m³</b>, respectively). This trend could be influenced by sunlight and cloud cover variations throughout the day. Ozone formation is typically affected by sunlight, so lower afternoon and evening values may reflect cloud cover or reduced sunlight intensity as the day progresses.
+    - <b>Ozone:</b> Ozone concentrations are highest in the morning (around <b>95.8 µg/m³</b>) and significantly decrease in the afternoon and evening (<b>31.2 µg/m³</b> and <b>37.6 µg/m³</b>, respectively). This trend could be influenced by sunlight and cloud cover variations throughout the day. Ozone formation is typically affected by sunlight, so lower afternoon and evening values may reflect cloud cover or reduced sunlight intensity as the day progresses.
     </p>
 
     <p style="font-size:18px; line-height:1.6;">
     - <b>PM10 and PM2.5:</b> PM10 and PM2.5 levels are somewhat consistent across different times of day, with slightly higher concentrations in the afternoon. This pattern suggests that these particulate pollutants might be less sensitive to sunlight or cloud cover and more affected by traffic or industrial activities, which remain steady throughout the day.
     </p>
 
+    <p style="font-size:18px; line-height:1.6;">
+    - <b>Carbon Monoxide:</b> CO levels show dramatic peaks in the evening (<b>530 µg/m³</b>) and morning (<b>410 µg/m³</b>), with lower concentrations in the afternoon (<b>330 μg/m³</b>). This pattern strongly correlates with rush hour traffic patterns, reflecting vehicle emissions during peak commuting times.
+    </p>
+    
+    <p style="font-size:18px; line-height:1.6;">
+    - <b>Nitrogen and Sulfur Oxides:</b> NO₂ shows minor increases in evening hours, while SO₂ maintains stable, low concentrations throughout the day. These patterns likely reflect a combination of industrial emissions and traffic patterns, with NO₂ more responsive to vehicle emissions during peak travel times.
+    </p>
+
     <h4 style="font-size:20px; color:#004d99;">Summary:</h4>
     <p style="font-size:18px; line-height:1.6;">
-    In summary, ozone levels peak in the morning, likely due to favorable conditions for ozone formation, such as sunlight availability and less cloud cover, while PM10 and PM2.5 are consistent with slightly higher concentrations in the afternoon.
+    In summary, the pollution patterns show distinct daily cycles where carbon monoxide peaks dramatically during morning and evening rush hours (<b>410-530 μg/m³</b>), while ozone shows a characteristic afternoon peak (<b>~100 μg/m³</b>) driven by sunlight intensity. Particulate matter (PM10 and PM2.5) maintains relatively stable levels throughout the day with minor fluctuations, and nitrogen/sulfur oxides show modest variations, with NO₂ slightly elevated during peak traffic periods. These patterns strongly suggest that pollution levels are primarily influenced by a combination of human activity cycles (especially traffic) and natural environmental factors like sunlight.
     </p>
 """
     
