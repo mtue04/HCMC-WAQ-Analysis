@@ -11,9 +11,10 @@ imblearn
 openmeteo-requests
 requests-cache 
 retry-requests
-plotly
+plotly==5.17.0
 sktime
 python-dotenv==1.0.1
 langchain-groq==0.1.6
 langchain==0.2.10
 langchain-community==0.2.10
+nbformat
