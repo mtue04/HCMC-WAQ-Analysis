@@ -3,6 +3,7 @@ matplotlib
 ipykernel
 seaborn
 pandas
+spicy
 scikit-learn
 gradio
 joblib

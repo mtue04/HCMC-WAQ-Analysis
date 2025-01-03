@@ -45,7 +45,7 @@ To set up and run this project locally, follow these steps:
     conda activate venv
     ```
 
-- Create GROQ API Key to run the app.ipynb file:
+- Create GROQ API Key for chatbot to run the app.ipynb file:
     - Go to [groq website](https://console.groq.com/keys)
     - Sign in to your account, or create one if you don't already have an account.
     - Once logged in, navigate to the **API Keys** section in your GROQ dashboard.
