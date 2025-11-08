@@ -89,5 +89,5 @@ This project is done by the Capydata group, class CLC2425HK1_CSC14119_22KHDL1, U
 | 22127234   | Cao Hoàng Lộc          |
 | 22127360   | Võ Nguyễn Phương Quỳnh |
 | 22127440   | Phan Võ Minh Tuệ       |
-
 | 22127450   | Phạm Anh Văn           |
+
