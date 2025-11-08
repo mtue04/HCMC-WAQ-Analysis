@@ -80,8 +80,6 @@ If you want to contribute to this project, follow these steps:
 3. Make your changes.
 4. Create a pull request with a detailed explanation of your changes.
 
-## Group's Resources (Timeline, Meeting notes, Docs)
-- [Project Drive](https://drive.google.com/drive/folders/11HrSxnZGHwgdIZdofiF2Ajjw2VtPV388).
 
 ## Contributors
 This project is done by the Capydata group, class CLC2425HK1_CSC14119_22KHDL1, University of Science, VNU-HCM.
@@ -91,4 +89,5 @@ This project is done by the Capydata group, class CLC2425HK1_CSC14119_22KHDL1, U
 | 22127234   | Cao Hoàng Lộc          |
 | 22127360   | Võ Nguyễn Phương Quỳnh |
 | 22127440   | Phan Võ Minh Tuệ       |
+
 | 22127450   | Phạm Anh Văn           |
